@@ -1,0 +1,20 @@
+{
+    "users": [
+      {
+        "firstName": "John",
+        "lastName": "Doe",
+        "birthday": 655772400,
+        "nationality": "PL",
+        "countryOfResidence": "PL",
+        "email": "john.doe@example.com"
+      },
+      {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "birthday": 1212341234,
+        "nationality": "FR",
+        "countryOfResidence": "FR",
+        "email": "jane.smith@example.com"
+      }
+    ]
+  }
