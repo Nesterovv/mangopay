@@ -1,4 +1,3 @@
-// pages/UserPage.ts
 import { APIRequestContext } from '@playwright/test';
 
 export class UserPage {
