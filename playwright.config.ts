@@ -26,7 +26,7 @@ export default defineConfig({
   reporter: 'html',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
-    baseURL: 'https://api.sanbox.mangopay.com',
+    baseURL: 'https://api.sandbox.mangopay.com',
     extraHTTPHeaders: {
       Authorization: `Basic ${Buffer.from(`${process.env.CLIENT_ID}:${process.env.API_KEY}`).toString('base64')}`,
     },

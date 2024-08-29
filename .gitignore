@@ -1,6 +1,22 @@
+# Node modules
 node_modules/
+
+# Playwright test results and reports
 /test-results/
 /playwright-report/
 /blob-report/
+
+# Playwright cache directory
 /playwright/.cache/
+
+# Environment variable file
 .env
+
+# User data file
+userData.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

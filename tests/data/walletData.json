@@ -1,0 +1,18 @@
+{
+  "wallets": [
+    {
+      "Owners": [
+        "user_m_01J6FE1WEX45MB62PPZ9PNR558"
+      ],
+      "Description": "My first wallet",
+      "Currency": "EUR",
+      "Tag": "custom_tag_1234_qwerty"
+    },
+    {
+      "Owners": [],
+      "Description": "Second wallet for another user",
+      "Currency": "USD",
+      "Tag": "custom_tag_5678"
+    }
+  ]
+}
