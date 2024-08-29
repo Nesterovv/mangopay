@@ -1,8 +1,7 @@
 {
   "wallets": [
     {
-      "Owners": [
-        "user_m_01J6FEA25AHE6S17JJCR0557EE"
+      "Owners": [ "will be replaced by the user id"
       ],
       "Description": "My first wallet",
       "Currency": "EUR",
